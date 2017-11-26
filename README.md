@@ -13,7 +13,7 @@
     - Add some padding to the button and change it's background color
 ------------------------------------------------------------
 3. **Third Person Name Goes here**
-    - Increase the fontsize and change the color of the secret message
+    - Increase the font size and change the color of the secret message
     - Inside the JavaScript file:
         - Explain the code that is in there 
         - use `alert()` to make sure our files are linked correctly
